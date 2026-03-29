@@ -1,0 +1,32 @@
+[
+  {
+    "company": "Deloitte New Zealand",
+    "job_title": "Audit Senior",
+    "role_type": "audit",
+    "seniority": "senior",
+    "job_description": "Lead audit engagements for a portfolio of clients across financial services and public sector. Supervise junior staff and liaise with clients to ensure high-quality deliverables.",
+    "recipient_name": "Talent Acquisition Team",
+    "company_address": "Auckland, NZ",
+    "notes": "Applied via Seek"
+  },
+  {
+    "company": "ANZ Bank",
+    "job_title": "Financial Analyst",
+    "role_type": "finance",
+    "seniority": "mid",
+    "job_description": "Support the finance team with monthly reporting, budgeting, and forecasting for the retail banking division.",
+    "recipient_name": "Hiring Manager",
+    "company_address": "Wellington, NZ",
+    "notes": "Referral from networking event"
+  },
+  {
+    "company": "Wellington City Council",
+    "job_title": "Graduate Accountant",
+    "role_type": "graduate",
+    "seniority": "entry",
+    "job_description": "Assist with accounts payable/receivable, month-end journals, and financial reporting as part of a two-year graduate programme.",
+    "recipient_name": "People & Capability Team",
+    "company_address": "Wellington, NZ",
+    "notes": "Graduate programme intake"
+  }
+]

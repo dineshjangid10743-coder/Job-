@@ -1,0 +1,8 @@
+id,date_applied,company,job_title,role_type,seniority,status,notes,follow_up_date,outcome
+1,2024-01-15,ABC Corp,Financial Analyst,finance,mid,applied,Submitted via Seek,,
+2,2024-01-18,DEF Ltd,Audit Senior,audit,senior,interviewed,Phone screen booked for 25 Jan,2024-01-25,
+3,2024-01-20,GHI Partners,Graduate Accountant,graduate,entry,rejected,No experience in property sector,,rejected
+4,2026-03-29,KPMG New Zealand,Tax Associate,finance,entry,applied,,,
+5,2026-03-29,Deloitte New Zealand,Audit Senior,audit,senior,applied,Applied via Seek,,
+6,2026-03-29,ANZ Bank,Financial Analyst,finance,mid,applied,Referral from networking event,,
+7,2026-03-29,Wellington City Council,Graduate Accountant,graduate,entry,applied,Graduate programme intake,,

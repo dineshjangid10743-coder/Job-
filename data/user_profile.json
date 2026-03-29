@@ -1,0 +1,66 @@
+{
+  "full_name": "Jane Smith",
+  "location": "Auckland, New Zealand",
+  "email": "jane.smith@email.com",
+  "phone": "+64 21 123 4567",
+  "linkedin": "linkedin.com/in/janesmith",
+  "profile_summary": "Detail-oriented finance professional with 4+ years of experience in financial analysis, auditing, and reporting. Proven ability to streamline processes and deliver accurate insights that support strategic decision-making.",
+  "key_skills": [
+    "Financial Analysis & Reporting",
+    "Internal & External Audit",
+    "Budgeting & Forecasting",
+    "IFRS / NZ GAAP",
+    "Microsoft Excel (Advanced)",
+    "SAP / Xero / MYOB",
+    "Stakeholder Communication",
+    "Process Improvement"
+  ],
+  "work_experience": [
+    {
+      "job_title": "Financial Analyst",
+      "company": "ABC Finance Ltd",
+      "start_date": "January 2021",
+      "end_date": "Present",
+      "job_description": "Responsible for monthly financial close, variance analysis, and board reporting for a $50M revenue business.",
+      "achievements": [
+        "Reduced monthly close time by 2 days through process automation using Excel macros.",
+        "Identified $200K in cost savings through detailed spend analysis.",
+        "Prepared board-level financial packs presented to 10 senior executives."
+      ]
+    },
+    {
+      "job_title": "Audit Associate",
+      "company": "XYZ Chartered Accountants",
+      "start_date": "February 2019",
+      "end_date": "December 2020",
+      "job_description": "Conducted statutory audits for clients across retail, property, and not-for-profit sectors.",
+      "achievements": [
+        "Completed audit fieldwork for 15+ clients with zero material misstatements.",
+        "Mentored two junior team members on audit methodology.",
+        "Supported implementation of a new audit software system."
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Bachelor of Commerce (Accounting & Finance)",
+    "institution": "University of Auckland",
+    "graduation_year": "2018",
+    "education_details": "Graduated with Honours. Relevant coursework: Corporate Finance, Financial Accounting, Management Accounting, Auditing."
+  },
+  "certifications": [
+    "CA ANZ — Chartered Accountant (in progress)",
+    "Microsoft Excel Expert Certification"
+  ],
+  "ats_keywords": {
+    "finance": ["financial analysis", "budgeting", "forecasting", "P&L", "variance analysis", "IFRS", "NZ GAAP", "Excel", "SAP", "Xero"],
+    "audit": ["internal audit", "external audit", "risk assessment", "compliance", "controls testing", "audit planning", "working papers"],
+    "part_time": ["flexible hours", "part-time", "casual", "administration", "data entry", "customer service"],
+    "graduate": ["graduate role", "entry level", "trainee", "graduate programme", "mentoring", "development programme"]
+  },
+  "role_summaries": {
+    "finance": "Detail-oriented finance professional with 4+ years of experience in financial analysis, auditing, and reporting. Proven ability to streamline processes and deliver accurate insights that support strategic decision-making.",
+    "audit": "Experienced audit professional with a strong background in risk-based auditing, compliance, and financial controls. Adept at building client relationships and delivering high-quality audit outcomes.",
+    "part_time": "Reliable and organised professional seeking part-time opportunities. Strong attention to detail, excellent communication skills, and a proven ability to manage competing priorities.",
+    "graduate": "Motivated recent graduate with a Commerce degree (Accounting & Finance) and hands-on experience through internships and associate roles. Eager to contribute to a dynamic team and grow professionally."
+  }
+}
