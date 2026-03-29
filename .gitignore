@@ -1,0 +1,14 @@
+# Generated application output folders (keep examples/output checked in)
+output/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
